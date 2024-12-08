@@ -8,9 +8,8 @@ Made with NodeJS, Hardhat, Solidity, ReactJS, NextJS and Vercel.
 
 ## Demo
 
-![Demo](https://github.com/Markkop/nft-marketplace/blob/main/demo.gif)
+![Demo](https://github.com/bytes4guru/nft-marketplace/blob/main/demo.gif)
 
-Checkout the live demo: https://nft-marketplace-markkop.vercel.app/
 
 ---
 
@@ -129,7 +128,7 @@ _\* They're usually caused by incorrect contract addresses and wrong default gas
 
 - Refactor frontend code to accept other networks besides Mumbai
 - Lazyload for NFTs images and metadata
-- Add support for custom ERC20 tokens as payment (started on [#2](https://github.com/Markkop/nft-marketplace/pull/2))
+- Add support for custom ERC20 tokens as payment (started on [#2](https://github.com/bytes4guru/nft-marketplace/pull/2))
 
 # Troubleshooting
 
